@@ -1,0 +1,109 @@
+﻿02.08.2018 12:09:05.911 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:09:11.104 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:09:41.781 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:15:03.344 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:15:03.350 Action: User trying to create new printer
+02.08.2018 12:15:03.360 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:15:03.367 Action: Printer:Canon Model:11 add in repository
+02.08.2018 12:19:06.604 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:19:06.611 Action: User trying to create new printer
+02.08.2018 12:19:06.617 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:19:06.624 Action: Printer:Canon Model:11 add in repository
+02.08.2018 12:21:30.384 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:21:30.392 Action: User trying to create new printer
+02.08.2018 12:21:30.399 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:21:30.407 Action: Printer:Canon Model:11 add in repository
+02.08.2018 12:21:30.441 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:23:55.166 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:23:55.174 Action: User trying to create new printer
+02.08.2018 12:23:55.180 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:23:55.187 Action: Printer:Canon Model:11 add in repository
+02.08.2018 12:23:55.212 Action: Printer:Canon Model:35-1 add in repository
+02.08.2018 12:23:55.220 Action: Printer:Epson Model:11 add in repository
+02.08.2018 12:23:55.229 Action: User trying to create new printer
+02.08.2018 12:23:55.236 Action: Printer:epson Model:45 add in repository
+02.08.2018 12:23:55.280 Action: Attempt to add available Printer:Epson Model:11
+02.08.2018 12:25:21.462 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:25:21.470 Action: User trying to create new printer
+02.08.2018 12:25:21.477 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:25:21.483 Action: Printer:Canon Model:35-1 add in repository
+02.08.2018 12:25:21.490 Action: Printer:Canon Model:11 add in repository
+02.08.2018 12:25:21.497 Action: Printer:Epson Model:11 add in repository
+02.08.2018 12:25:21.531 Action: Attempt to add available Printer:Epson Model:11
+02.08.2018 12:25:43.506 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:25:43.513 Action: User trying to create new printer
+02.08.2018 12:25:43.521 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:25:43.529 Action: Printer:Canon Model:35-1 add in repository
+02.08.2018 12:25:43.537 Action: Printer:Canon Model:11 add in repository
+02.08.2018 12:25:43.544 Action: Printer:Epson Model:11 add in repository
+02.08.2018 12:25:43.578 Action: Printer:Epson Model:11 add in repository
+02.08.2018 12:35:08.619 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:35:08.626 Action: User trying to create new printer
+02.08.2018 12:35:08.633 Action: Attempt to add available Printer:Canon Model:22
+02.08.2018 12:35:08.706 Action: Printer:Epson Model:11 add in repository
+02.08.2018 12:35:33.334 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:35:33.341 Action: User trying to create new printer
+02.08.2018 12:35:33.348 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:35:33.354 Action: Printer:Canon Model:35-1 add in repository
+02.08.2018 12:35:33.364 Action: Printer:Canon Model:11 add in repository
+02.08.2018 12:35:33.373 Action: Printer:Epson Model:11 add in repository
+02.08.2018 12:35:33.406 Action: Printer:Epson Model:11 add in repository
+02.08.2018 12:37:01.780 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:37:01.787 Action: User trying to create new printer
+02.08.2018 12:37:01.799 Action: Attempt to add available Printer:Canon Model:22
+02.08.2018 12:37:01.873 Action: Printer:Epson Model:11 add in repository
+02.08.2018 12:39:49.325 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:39:49.333 Action: User trying to create new printer
+02.08.2018 12:39:49.342 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:39:49.350 Action: Printer:Canon Model:35-1 add in repository
+02.08.2018 12:39:49.356 Action: Printer:Canon Model:11 add in repository
+02.08.2018 12:39:49.364 Action: Printer:Epson Model:11 add in repository
+02.08.2018 12:39:49.398 Action: Attempt to add available Printer:Epson Model:11
+02.08.2018 12:41:02.249 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:41:02.257 Action: User trying to create new printer
+02.08.2018 12:41:02.264 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:41:02.272 Action: Printer:Canon Model:35-1 add in repository
+02.08.2018 12:41:02.278 Action: Printer:Canon Model:11 add in repository
+02.08.2018 12:41:02.285 Action: Printer:Epson Model:11 add in repository
+02.08.2018 12:41:02.322 Action: Attempt to add available Printer:Epson Model:11
+02.08.2018 12:41:02.331 Action: User trying to create new printer
+02.08.2018 12:42:06.288 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:42:06.295 Action: User trying to create new printer
+02.08.2018 12:42:06.302 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:42:06.309 Action: Printer:Canon Model:35-1 add in repository
+02.08.2018 12:42:06.317 Action: Printer:Canon Model:11 add in repository
+02.08.2018 12:42:06.326 Action: Printer:Epson Model:11 add in repository
+02.08.2018 12:42:06.361 Action: Attempt to add available Printer:Epson Model:11
+02.08.2018 12:42:06.370 Action: User trying to create new printer
+02.08.2018 12:42:06.378 Action: User trying to create new printer
+02.08.2018 12:42:39.994 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:42:40.002 Action: User trying to create new printer
+02.08.2018 12:42:40.011 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:42:40.019 Action: Printer:Canon Model:35-1 add in repository
+02.08.2018 12:42:40.026 Action: Printer:Canon Model:11 add in repository
+02.08.2018 12:42:40.034 Action: Printer:Epson Model:11 add in repository
+02.08.2018 12:42:40.067 Action: Attempt to add available Printer:Epson Model:11
+02.08.2018 12:42:40.076 Action: User trying to create new printer
+02.08.2018 12:42:40.083 Action: User trying to create new printer
+02.08.2018 12:42:40.091 Action: User trying to create new printer
+02.08.2018 12:43:26.435 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:43:26.442 Action: User trying to create new printer
+02.08.2018 12:43:26.450 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:43:26.457 Action: Printer:Canon Model:35-1 add in repository
+02.08.2018 12:43:26.464 Action: Printer:Canon Model:11 add in repository
+02.08.2018 12:43:26.472 Action: Printer:Epson Model:11 add in repository
+02.08.2018 12:43:26.507 Action: Attempt to add available Printer:Epson Model:11
+02.08.2018 12:43:26.516 Action: User trying to create new printer
+02.08.2018 12:43:26.523 Action: User trying to create new printer
+02.08.2018 12:43:26.530 Action: User trying to create new printer
+02.08.2018 12:43:53.464 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:43:53.471 Action: User trying to create new printer
+02.08.2018 12:43:53.478 Action: Printer:Canon Model:22 add in repository
+02.08.2018 12:43:53.484 Action: Printer:Canon Model:35-1 add in repository
+02.08.2018 12:43:53.491 Action: Printer:Canon Model:11 add in repository
+02.08.2018 12:43:53.499 Action: Printer:Epson Model:11 add in repository
+02.08.2018 12:43:53.534 Action: Attempt to add available Printer:Epson Model:11
+02.08.2018 12:43:53.542 Action: User trying to create new printer
+02.08.2018 12:43:53.551 Action: User trying to create new printer
+02.08.2018 12:43:53.558 Action: User trying to create new printer
+02.08.2018 12:43:53.566 Action: User trying to create new printer

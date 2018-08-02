@@ -40,6 +40,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\CanonPrinter.cs" />
+    <Compile Include="Services\Logger.cs" />
+    <Compile Include="Entities\EpsonPrinter.cs" />
+    <Compile Include="Interfaces\IRepository.cs" />
+    <Compile Include="Interfaces\IService.cs" />
+    <Compile Include="EventArgs\NewEndPrintEventArgs.cs" />
+    <Compile Include="EventArgs\NewStartPrintEventArgs.cs" />
+    <Compile Include="Entities\Printer.cs" />
+    <Compile Include="Services\PrinterCreator.cs" />
+    <Compile Include="Services\PrinterManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
